@@ -1,1 +1,0 @@
-# Coronavirus_Detection_using_Chest_X_ray
